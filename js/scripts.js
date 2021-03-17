@@ -14,8 +14,8 @@ const _gui = {
 	counter: document.querySelector(".gui__counter"),
 	switch: document.querySelector(".gui__btn-switch"),
 	led: document.querySelector(".gui__led"),
-	strict: document.querySelector(".gui__btn-strict"),
-	start: document.querySelector(".gui__btn-start"),
+	strict: document.querySelector(".gui__btn--strict"),
+	start: document.querySelector(".gui__btn--start"),
 	pads: document.querySelectorAll(".game__pad")
 }
 
